@@ -1,4 +1,4 @@
-# 🧪 Test CoPilot AI (Currently in process)
+# 🧪 Test CoPilot AI (Currently - In Progress)
 
 **JUnit Test Pilot AI** is a developer tool that integrates Google Vertex AI (PaLM/Gemini) to automatically generate JUnit 5 test cases for Java methods. It parses Java source files, constructs structured prompts, communicates with Google’s generative APIs, and writes fully-formed unit tests to match your method logic and signature.
 
